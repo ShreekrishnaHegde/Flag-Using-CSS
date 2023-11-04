@@ -1,0 +1,109 @@
+body{
+    background-color: black;
+}
+#e,#f,#g,#h,#i,#j,#k,#l,#m,#n,#o,#p{
+    width: 101px;
+    height: 1px;
+    background-color: blue;
+    
+}
+#a {
+    background-color: orange;
+    width: 450px;
+    height: 300px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+}
+
+#b {
+    width:450px;
+    height: 100px;
+    background-color: white;
+    position: relative;
+    top: 100px;
+}
+#c {
+    width: 450px;
+    height: 100px;
+    background-color: green;
+    position: relative;
+    top: 100px;
+}
+
+#d{
+    height: 100px;
+    width: 100px;
+    border: 1px solid blue;
+    border-radius: 50%;
+    position: relative;
+    left: 175px;
+    bottom: 100.8px;
+    
+    
+}
+#e{
+    position: relative;
+    top: 50px;
+}
+#f{
+    rotate: 90deg;
+    position: relative;
+    top: 49px;
+}
+#g{
+    rotate: 45deg;
+    position: relative;
+    top: 47.5px;
+}
+#h{
+    rotate: 135deg;
+    position: relative;
+    top: 47px;
+}
+#i{
+    rotate: 105deg;
+    position: relative;
+    top: 46px;
+}
+#j{
+
+    rotate: 120deg;
+    position: relative;
+    top: 45px;
+}
+#k{
+    rotate: 150deg;
+    position: relative;
+    top: 44px;
+}
+#l{
+
+    rotate: 165deg;
+    position: relative;
+    top: 43px;
+}
+#m{
+    rotate: 195deg;
+    position: relative;
+    top: 42px;
+}
+#n{
+    rotate: 210deg;
+    position: relative;
+    top: 41px;
+}
+#o{
+    rotate: 240deg;
+    position: relative;
+    top: 40px;
+}
+#p{
+    rotate: 255deg;
+    position: relative;
+    top: 38px;
+}
+h1{
+    color: red;
+}
